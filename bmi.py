@@ -1,3 +1,6 @@
+sct211 - 0060 /2022
+Njoroge Kimberly
+
 weight = float(input('Enter weight in kilograms: '))
 height = float(input('Enter height in meters: '))
 
